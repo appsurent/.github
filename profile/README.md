@@ -1,6 +1,6 @@
-# Appsurent
+# Appsurent Cyber Security
 
-Application security consultancy specializing in Web, Mobile and API penetration testing.
+Toronto-based application security consultancy specializing in Web, Mobile and API penetration testing. 100% Canadian-based team. 
 
 ## Services
 - Web Application Penetration Testing
@@ -19,4 +19,4 @@ Presentations, whitepapers and security tools for the community. Follow us for u
 - 💼 [LinkedIn](https://www.linkedin.com/company/appsurent-cyber-security/)
 
 ---
-*Securing applications since 2020*
+*Securing applications since 2017*
